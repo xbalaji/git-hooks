@@ -3,5 +3,7 @@
 
 ```
 wget http://github.com/xbalaji/git-hooks/master/setup-githooks.sh -q -O - |  bash
+
+test
 ```
 
